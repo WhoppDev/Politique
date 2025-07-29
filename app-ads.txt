@@ -1,4 +1,3 @@
-# app-ads.txt example file:
 greenadexchange.com, 12345, DIRECT, d75815a79
 
 silverssp.com, 9675, RESELLER, 496211
